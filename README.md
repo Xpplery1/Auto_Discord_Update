@@ -12,7 +12,7 @@ Apos isso o seu "Discord_Upgrade" estara instalado.
 
 # Como Iniciar o "Discord_Upgrade".
 Ainda na mesma pasta:
-´´´Bash
+```Bash
 source Discord_Upgrade
 ```
 Casa necessario digite a senha do sudo para iniciar a instalação.
