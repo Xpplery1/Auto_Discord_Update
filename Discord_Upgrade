@@ -1,0 +1,6 @@
+#!/bin/bash
+mkdir ~/Discord_Upgrade
+mkdir ~/Discord_Upgrade/Update
+wget -O ~/Discord_Upgrade/Update/Discord.deb "https://discord.com/api/download/stable?platform=linux&format=deb"
+sudo apt install  ~/Discord_Upgrade/Update/Discord.deb 
+rm  ~/Discord_Upgrade -r
